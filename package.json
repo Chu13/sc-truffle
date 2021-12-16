@@ -12,8 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ethereumjs/common": "^2.6.0",
-    "@ethereumjs/tx": "^3.4.0",
     "@openzeppelin/contracts": "^4.4.0",
     "@truffle/hdwallet-provider": "^2.0.0",
     "web3": "^1.6.1"
